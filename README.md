@@ -1,2 +1,2 @@
 # JavaScript
-A code repo  for javascript Day1
+A code repo  for javascript Day2
